@@ -2,6 +2,8 @@
 
 GARBAGE CLASSIFICATION
 
+Google Colab link : https://colab.research.google.com/drive/1vXjLgN1kmcy949KkZcRnAtybTPpkgWN_?usp=sharing
+
 Model Architectures:
 
 For this task, I implemented and compared the result of a custom CNN model and ResNet (pre-trained) model via augmented and non-augmented (simple) transformations of the garbage dataset.
