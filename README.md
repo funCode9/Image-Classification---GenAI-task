@@ -36,4 +36,4 @@ Final accuracies of all combinations
 
 Confusion Matrix represented by Heatmap
 
-![Confusion Matrix represented by Heatmap](final_accuracies.png)
+![Confusion Matrix represented by Heatmap](confusion_matrix.png)
