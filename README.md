@@ -30,3 +30,10 @@ ResNet-18 + No Augmentation	                84.84%	                     High
 ResNet-18 + Augmentation	                  79.35%	          Highest (Best Generalization)
 
 
+FINAL ACCURACIES
+
+!(final_accuracies.png)
+
+Confusion Matrix - Heatmap
+
+
