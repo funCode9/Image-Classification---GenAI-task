@@ -23,17 +23,17 @@ Final Results:
 
 I conducted four experimental trials to determine the most robust and reliable model.
 
-Case	                                     Accuracy	                 Reliability
-Scratch + No Augmentation	                  98.76%	              Low (Overfitting)
-Scratch + Augmentation	                    77.02%	                    Medium
-ResNet-18 + No Augmentation	                84.84%	                     High
-ResNet-18 + Augmentation	                  79.35%	          Highest (Best Generalization)
+Case	                                       Accuracy	                 Reliability
+Scratch + No Augmentation	               99.70%	              Low (Overfitting)
+Scratch + Augmentation	                    77.27%	                    Medium
+ResNet-18 + No Augmentation	               83.06%	                     High
+ResNet-18 + Augmentation	                    81.67%	          Highest (Best Generalization)
 
 
-FINAL ACCURACIES
+Final accuracies of all combinations
 
-!(final_accuracies.png)
+![final accuracies of all combinations](final_accuracies.png)
 
-Confusion Matrix - Heatmap
+Confusion Matrix represented by Heatmap
 
-
+![Confusion Matrix represented by Heatmap](final_accuracies.png)
