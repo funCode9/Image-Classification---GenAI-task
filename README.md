@@ -74,7 +74,6 @@ GAN (Generative Adversarial Network)
     Loss Tracking: recorded both Generator and Discriminator loss at every batch, resulting in a "spiky" graph.
     The final result is a 4x4 grid of generated digits, handwritten-like numbers from the MNIST distribution.
 
-
 Generated numbers
 
 ![Generated numbers](Generated numbers.png)
