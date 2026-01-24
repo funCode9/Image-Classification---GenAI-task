@@ -1,6 +1,6 @@
 # Image Classification + GAN task
 
-------------------------------------GARBAGE CLASSIFICATION TASK--------------------------------------------------------------------------------
+--------------GARBAGE CLASSIFICATION TASK-------------------
 
 Google Colab link : https://colab.research.google.com/drive/1vXjLgN1kmcy949KkZcRnAtybTPpkgWN_?usp=sharing
 
@@ -41,7 +41,7 @@ Confusion Matrix represented by Heatmap
 ![Confusion Matrix represented by Heatmap](confusion_matrix.png)
 
 
--------------------------------------------------------------GAN TASK----------------------------------------------------------------- 
+------------------GAN TASK------------------ 
 
 Google Colab link : https://colab.research.google.com/drive/1SERfZTzy2UJV0VODUVGn74wJzATovrq0?usp=sharing
 
