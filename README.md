@@ -76,6 +76,6 @@ GAN (Generative Adversarial Network)
 
 Generated numbers
 
-![Generated numbers](Generated numbers.png)
+![Generated numbers](Gen_numbers.png)
    
 
