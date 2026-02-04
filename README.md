@@ -25,7 +25,7 @@ Final Results:
 
 I conducted four experimental trials to determine the most robust and reliable model.
 
-Case	                                       Accuracy	                 Reliability
+Case                         |               Accuracy	                 Reliability
 
 Scratch + No Augmentation	               99.70%	              Low (Overfitting)
 
